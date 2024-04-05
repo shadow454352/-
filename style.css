@@ -282,7 +282,7 @@ padding: 80px 20px;
 
 @media (max-width:641px){
 
-    .main{ background: url(images/4.png  ) no-repeat;}
+    .main{ background: url(images/5.png  ) no-repeat;}
 
  body{
     font-size: 12px;
@@ -299,7 +299,7 @@ padding: 80px 20px;
 
 @media (max-width:300px){
 
-    .main{ background: url( images/4.png ) no-repeat;}
+    .main{ background: url( images/5.png ) no-repeat;}
 
     body{
        font-size: 10px;
